@@ -6,3 +6,4 @@ console.table([accountId, accountEmail, accountPassword]);
 
 /* Don't use var because of a issue in scope */
 
+console.log(accountId);
